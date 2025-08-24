@@ -1,0 +1,10 @@
+agno
+pylance 
+lancedb 
+tantivy 
+openai 
+sqlalchemy
+bs4
+python-dotenv
+huggingface_hub
+mistralai
