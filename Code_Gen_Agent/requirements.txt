@@ -8,3 +8,4 @@ bs4
 python-dotenv
 huggingface_hub
 mistralai
+groq
